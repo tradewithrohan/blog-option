@@ -293,9 +293,14 @@ My trading blog powered by ROHAN Indicator
     </section>
   </div>
 
-  <footer>
-    <p>&copy; ২০২৫ আপনার নাম | Privacy Policy | Disclaimer</p>
-  </footer>
+  <footer style="text-align: center; padding: 20px; font-size: 14px; color: #888;">
+  <hr>
+  <p><strong>About This Blog</strong><br>
+  🧠 <b>Rohan</b> – Price Action Trader, Strategy Creator, ROHAN Indicator Developer<br>
+  🤖 <b>CodeWithGPT</b> – Technical Writer, Dev Partner, Automation Expert<br>
+  <i>Together, we built this blog to share powerful trading insights with the community.</i></p>
+</footer>
+
 
   <script>
     function changeBackground(id) {
